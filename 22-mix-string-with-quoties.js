@@ -1,0 +1,1 @@
+var myString = "I am a string \"double quotes\" test";

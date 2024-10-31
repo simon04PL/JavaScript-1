@@ -1,0 +1,1 @@
+var multiplication = 2*2;
