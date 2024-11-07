@@ -1,0 +1,1 @@
+var myArray = [["Simon", 20], ["Marta", 18]];
